@@ -8,7 +8,12 @@
     "config.json"
   ],
   "attributes": {
+    "lastModification": {
+      "actor": "admin",
+      "timestamp": "2026-10-20T12:02:29Z"
+    },
     "uuid": "6c35f8b0-6ffa-488f-a711-9b69682ed298",
+    "lastModificationSignature": "151642944680d9b78ccef8d9ba2b120a90c0ccbaf78adfc4cb3a9d228e357858",
     "enabled": true
   }
 }
