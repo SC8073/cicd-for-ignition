@@ -134,6 +134,18 @@
     "certFingerprint": "7eeb95841827f50c0b617e2a33f4cb26df7e8a12",
     "licenseAgreementHash": 2550198668
   },
+  "com.mussonindustrial.embr.periscope": {
+  "filename": "/third-party-modules/Embr-Periscope-Ignition83-0.12.0.modl",
+  "onStartup": "enabled"
+  },
+  "com.mussonindustrial.embr.charts": {
+    "filename": "/third-party-modules/Embr-Periscope-Ignition83-0.12.0.modl",
+    "onStartup": "enabled"
+  },
+  "com.mustry.historian.timescaledb": {
+    "filename": "/third-party-modules/Embr-Periscope-Ignition83-0.12.0.modl",
+    "onStartup": "enabled"
+  },
   "project-scan-endpoint": {
     "filename": "/third-party-modules/Project-Scan-Endpoint-1.0.0.modl",
     "onStartup": "enabled",
