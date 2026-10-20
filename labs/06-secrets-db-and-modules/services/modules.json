@@ -139,11 +139,11 @@
   "onStartup": "enabled"
   },
   "com.mussonindustrial.embr.charts": {
-    "filename": "/third-party-modules/Embr-Periscope-Ignition83-0.12.0.modl",
+    "filename": "/third-party-modules/Embr-Charts-Ignition83-4.0.1.modl",
     "onStartup": "enabled"
   },
   "com.mustry.historian.timescaledb": {
-    "filename": "/third-party-modules/Embr-Periscope-Ignition83-0.12.0.modl",
+    "filename": "/third-party-modules/TimescaleDB-Historian.modl",
     "onStartup": "enabled"
   },
   "project-scan-endpoint": {
